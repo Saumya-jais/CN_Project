@@ -1,4 +1,4 @@
-Here’s a well-structured `README.md` for your **CN_Project** repository:  
+Try using triple backticks (` ``` `) to format the directory structure properly in Markdown. Here's your **README.md** with a correctly formatted project structure:  
 
 ```markdown
 # CN_Project
@@ -97,12 +97,3 @@ This project is licensed under the **MIT License**.
 🔗 **Author:** *Divyanshu Pandey*  
 📧 Contact: [your-email@example.com](mailto:your-email@example.com)
 ```
-
-This README:
-✅ **Explains the project structure**  
-✅ **Provides clear setup instructions**  
-✅ **Includes usage commands**  
-✅ **Mentions dependencies**  
-✅ **Provides contribution guidelines**  
-
-Let me know if you need any modifications! 🚀
